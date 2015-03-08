@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Fibonacci</string>
+    <string name="action_clear_database">Clear Database</string>
+    <string name="action_copy_database">Copy Database</string>
+</resources>
